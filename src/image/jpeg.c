@@ -32,7 +32,7 @@
 #include <stdlib.h>
 #include <errno.h>
 #include <LCUI_Build.h>
-#include <LCUI/LCUI.h>
+#include <LCUI/types.h>
 #include <LCUI/graph.h>
 #include <LCUI/image.h>
 
