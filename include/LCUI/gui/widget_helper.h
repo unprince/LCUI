@@ -64,6 +64,10 @@ LCUI_API LCUI_Style Widget_GetStyle(LCUI_Widget w, int key);
 
 LCUI_API void Widget_SetVisibility(LCUI_Widget w, const char *value);
 
+LCUI_API void Widget_SetVisible(LCUI_Widget w);
+
+LCUI_API void Widget_SetHidden(LCUI_Widget w);
+
 LCUI_API void Widget_Show(LCUI_Widget w);
 
 LCUI_API void Widget_Hide(LCUI_Widget w);
